@@ -1,0 +1,24 @@
+ul{
+    
+    background:  grey;
+    list-style-type: none;
+    padding: 10px 50px;
+    margin: 0px;
+    height: auto;
+    width: 100px;
+    border: 2px solid rgb(31, 28, 28);
+}
+
+ul li {
+  background: orange;
+  margin: 0px 0px;
+  height: auto;
+    width: 100px;
+    border: 2px solid rgb(31, 28, 28);
+  
+
+}
+body{
+    display: flex;
+    flex-wrap: nowrap;
+}
